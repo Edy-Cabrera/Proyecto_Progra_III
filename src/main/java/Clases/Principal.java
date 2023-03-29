@@ -27,7 +27,7 @@ public class Principal {
             case 1:
 
                 do {
-                    System.out.println(" ***PILAS***");
+                    System.out.println(" **PILAS**");
                     System.out.println(" Digite una Opcion");
                     System.out.println(" 1. Agregar un dato");
                     System.out.println(" 2. Listar primer elemento de la Pila");
@@ -73,7 +73,7 @@ public class Principal {
                 
 
                 do {
-                    System.out.println(" ***COLAS***");
+                    System.out.println(" **COLAS**");
                     System.out.println(" Digite una Opcion");
                     System.out.println(" 1. Agregar un dato");
                     System.out.println(" 2. Listar primer elemento de la Cola");
@@ -119,7 +119,7 @@ public class Principal {
             case 3:
 
                 do {
-                    System.out.println(" ***ARBOL AVL***");
+                    System.out.println(" **ARBOL AVL**");
                     System.out.println(" Digite una Opcion");
                     System.out.println(" 1. Ingresar Nodo");
                     System.out.println(" 2. Eliminar Nodo");
